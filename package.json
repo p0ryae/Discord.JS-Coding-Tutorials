@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Poryafm12/Discord.JS-Coding-Tutorials#readme",
   "dependencies": {
     "discord.js": "^12.1.1",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "humanize-duration": "^3.23.0"
   }
 }
