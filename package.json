@@ -1,8 +1,20 @@
 {
   "name": "discord.js-coding-tutorials",
   "version": "1.0.0",
-  "description": "",
+  "description": "Official GitHub of DashCraft on YouTube, Discord.JS Coding Tutorials, \r By Poryafm12 (DashCraft)",
   "main": "index.js",
+  "dependencies": {
+    "discord-giveaways": "^4.1.8",
+    "discord.js": "^12.2.0",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "humanize-duration": "^3.23.0",
+    "memejs": "^1.2.3",
+    "opusscript": "^0.0.7",
+    "random-puppy": "^1.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,15 +22,10 @@
     "type": "git",
     "url": "git+https://github.com/Poryafm12/Discord.JS-Coding-Tutorials.git"
   },
-  "author": "Poryafm12",
+  "author": "Poryafm12 (DashCraft)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Poryafm12/Discord.JS-Coding-Tutorials/issues"
   },
-  "homepage": "https://github.com/Poryafm12/Discord.JS-Coding-Tutorials#readme",
-  "dependencies": {
-    "discord.js": "^12.1.1",
-    "fs": "0.0.1-security",
-    "humanize-duration": "^3.23.0"
-  }
+  "homepage": "https://github.com/Poryafm12/Discord.JS-Coding-Tutorials#readme"
 }
