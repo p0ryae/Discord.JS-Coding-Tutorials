@@ -13,11 +13,9 @@ module.exports.run = async (bot, message, args) => {
 
     let x = Date.now() - member.createdAt;
     let y = Date.now() - message.guild.members.cache.get(member.id).joinedAt;
-    const created = Math.floor(x / 86400000);
     const joined = Math.floor(y / 86400000);
 
     const joineddate = moment.utc(member.joinedAt).format("dddd, MMMM Do YYYY, HH:mm:ss");
-    const createddate = moment.utc(member.createdAt).format("dddd, MMMM Do YYYY, HH:mm:ss");
     let status = member.presence.status;
 
     const userEmbed = new Discord.MessageEmbed()
@@ -27,7 +25,7 @@ module.exports.run = async (bot, message, args) => {
     .setImage(member.user.displayAvatarURL())
     .addField("Member ID", member.id)
     .addField('Roles', `<@&${member._roles.join('> <@&')}>`)
-    .addField('Created At', `${createddate}`)
+    .addField("Account Created On:", ` ${moment.utc(member.user.createdAt).format("dddd, MMMM Do YYYY")}`, true) 
     .addField('Joined the server At', `${joineddate} \n> ${joined} day(S) Ago`)
     .addField("Status", status)
 
