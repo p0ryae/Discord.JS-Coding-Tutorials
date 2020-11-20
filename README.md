@@ -2,8 +2,9 @@
 
 ➽ Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
 
-Welcome to My GitHub! I make a Branch for each episode I make on YouTube! Hopefully You guys will like it! If you want to see my playlist I have on YouTube for this Series!<br/>
-https://www.youtube.com/watch?v=gU-uNZz2O8s&list=PLCgC6Lz08u0wdLtoZznLQ40hNm_6J4XSN
+Welcome to my Offical Repository! I made Branches for each episode I made on YouTube! Hopefully it will help you all out.<br/>
+Here is where you can watch the videos on YouTube I made about this reposetory. Its a whole Playlist:<br/>
+- https://youtu.be/gU-uNZz2O8s?list=PLCgC6Lz08u0wdLtoZznLQ40hNm_6J4XSN
 
 # How and Where I can Find the Codes?
 
