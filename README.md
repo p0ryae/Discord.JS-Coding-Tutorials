@@ -1,7 +1,6 @@
 # Discord.JS-Coding-Tutorials
 
-➽ Official GitHub of DashCraft on YouTube, Discord.JS Coding Tutorials v12, 
-By Poryafm12 (DashCraft)
+➽ Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
 
 Welcome to My GitHub! I make a Branch for each episode I make on YouTube! Hopefully You guys will like it! If you want to see my playlist I have on YouTube for this Series!<br/>
 https://www.youtube.com/watch?v=gU-uNZz2O8s&list=PLCgC6Lz08u0wdLtoZznLQ40hNm_6J4XSN
