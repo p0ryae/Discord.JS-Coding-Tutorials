@@ -1,8 +1,9 @@
 # Discord.JS-Coding-Tutorials
 
-➽ Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
+Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
 
-Welcome to my Offical Discord.JS Tutorial repository! I created Branches for each episode I made for my YouTube playlist.<br/>
+`Welcome to my Offical Discord.JS Tutorial repository!`
+There is a branch for each episode that I made on my YouTube playlist so this repository will be more organized.<br/>
 Here is where you can watch the videos on YouTube I made about this reposetory. Its a whole Playlist:<br/>
 > http://bit.ly/3teos3y
 
