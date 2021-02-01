@@ -17,7 +17,7 @@ Here is where you can watch the videos on YouTube I made about this reposetory. 
 
 <br>
 
-- Then, the list of branches will show up for each eposide labeled.<br>
+- Then, the list of branches will show up for each eposide labeled.<br><br>
 ![image](https://user-images.githubusercontent.com/59381835/83589430-8bae5180-a508-11ea-975a-ae4fee409fde.png)
 
 <div align="center">
