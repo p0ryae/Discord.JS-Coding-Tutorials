@@ -1,16 +1,30 @@
-# ⇥ Discord.JS-Coding-Tutorials ⇤
+# Discord.JS-Coding-Tutorials
 
-➽ Official GitHub of DashCraft on YouTube, Discord.JS Coding Tutorials v12, 
-By Poryafm12 (DashCraft)
+```
+Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
+```
 
-Welcome to My GitHub! I make a Branch for each episode I make on YouTube! Hopefully You guys will like it! If you want to see my playlist I have on YouTube for this Series!<br/>
-https://www.youtube.com/watch?v=gU-uNZz2O8s&list=PLCgC6Lz08u0wdLtoZznLQ40hNm_6J4XSN
+**Welcome to my Offical Discord.JS Tutorial repository!<br><br>**
+There is a branch for each episode that I made on my YouTube playlist so this repository will be more organized.<br/>
+Here is where you can watch the videos on YouTube I made about this reposetory. Its a whole Playlist:<br/>
+> http://bit.ly/3teos3y
 
-# How and Where I can Find the Codes?
+## Where am I suppose to see the SourceCode for each episode?
 
-First You have to click on The Branches:
+- First, You'll have to click on button called "Branches":<br>
+
 ![image](https://user-images.githubusercontent.com/59381835/83589891-6241f580-a509-11ea-86a7-5e846d4089a8.png)
 
+<br>
 
-Second, When you click on That Icon, You have access to each episodes code on there!
+- Then, the list of branches will show up for each eposide labeled.<br><br>
 ![image](https://user-images.githubusercontent.com/59381835/83589430-8bae5180-a508-11ea-975a-ae4fee409fde.png)
+
+<div align="center">
+  <a href="https://discord.gg/2RPg23k">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+  <a href="https://youtube.com/dashcruft">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
+  </a>
+</div>
