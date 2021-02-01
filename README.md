@@ -11,9 +11,13 @@ Here is where you can watch the videos on YouTube I made about this reposetory. 
 
 # Where am I suppose to see the SourceCode for each episode?
 
-First, You'll have to click on button called "Branches":
+First, You'll have to click on button called "Branches":<br>
+
 ![image](https://user-images.githubusercontent.com/59381835/83589891-6241f580-a509-11ea-86a7-5e846d4089a8.png)
 
+<br><br>
+
+Then, the list of branches will show up for each eposide labeled.<br>
 ![image](https://user-images.githubusercontent.com/59381835/83589430-8bae5180-a508-11ea-975a-ae4fee409fde.png)
 
 <div align="center">
