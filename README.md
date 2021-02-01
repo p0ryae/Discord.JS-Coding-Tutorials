@@ -1,4 +1,4 @@
-#Discord.JS-Coding-Tutorials
+# Discord.JS-Coding-Tutorials
 
 ```
 Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
