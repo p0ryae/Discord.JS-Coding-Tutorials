@@ -1,6 +1,6 @@
 # Discord.JS-Coding-Tutorials
 
-```css
+```
 Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
 ```
 
