@@ -2,10 +2,7 @@
 
 ### Official Repository of Discord.JS Coding Tutorials v12 by DashCruft on YouTube!
 
-<br>
-
-There is a branch for each episode that I made on my YouTube playlist so this repository will be more organized.<br/>
-**[HERE](http://bit.ly/3teos3y)** is where you can watch the videos in the playlist, on YouTube
+**[HERE](http://bit.ly/3teos3y)** is where you can watch the videos in the playlist, on YouTube.
 
 ## Where am I suppose to see the SourceCode for each episode?
 
