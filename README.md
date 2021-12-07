@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/59381835/145103628-90d502e9-b484-4a7d-889d-9ccf159d243d.png)
 
-- Then, the list of branches will show up for each eposide labeled:<br>
+- Then, the list of branches will show up for each episode labeled:<br>
 
 ![image](https://user-images.githubusercontent.com/59381835/145103527-63c85472-5ffd-484b-80af-d0979e65c35e.png)
 
