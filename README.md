@@ -5,7 +5,7 @@
 <br>
 
 There is a branch for each episode that I made on my YouTube playlist so this repository will be more organized.<br/>
-[HERE](http://bit.ly/3teos3y)is where you can watch the videos on YouTube I made about this reposetory:<br/>
+**[HERE](http://bit.ly/3teos3y)** is where you can watch the videos in the playlist, on YouTube
 
 ## Where am I suppose to see the SourceCode for each episode?
 
@@ -15,7 +15,8 @@ There is a branch for each episode that I made on my YouTube playlist so this re
 
 <br>
 
-- Then, the list of branches will show up for each eposide labeled.<br><br>
+- Then, the list of branches will show up for each eposide labeled.<br>
+
 ![image](https://user-images.githubusercontent.com/59381835/83589430-8bae5180-a508-11ea-975a-ae4fee409fde.png)
 
 <div align="center">
