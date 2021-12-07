@@ -5,8 +5,7 @@
 <br>
 
 There is a branch for each episode that I made on my YouTube playlist so this repository will be more organized.<br/>
-Here is where you can watch the videos on YouTube I made about this reposetory. Its a whole Playlist:<br/>
-> http://bit.ly/3teos3y
+[HERE](http://bit.ly/3teos3y)is where you can watch the videos on YouTube I made about this reposetory:<br/>
 
 ## Where am I suppose to see the SourceCode for each episode?
 
