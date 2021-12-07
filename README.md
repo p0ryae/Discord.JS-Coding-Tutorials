@@ -6,15 +6,14 @@
 
 ## Where am I suppose to see the SourceCode for each episode?
 
-- First, You'll have to click on button called "Branches":<br>
+- First, You'll have to click on this button:
 
-![image](https://user-images.githubusercontent.com/59381835/83589891-6241f580-a509-11ea-86a7-5e846d4089a8.png)
+![image](https://user-images.githubusercontent.com/59381835/145103628-90d502e9-b484-4a7d-889d-9ccf159d243d.png)
 
-<br>
+- Then, the list of branches will show up for each eposide labeled:<br>
 
-- Then, the list of branches will show up for each eposide labeled.<br>
+![image](https://user-images.githubusercontent.com/59381835/145103527-63c85472-5ffd-484b-80af-d0979e65c35e.png)
 
-![image](https://user-images.githubusercontent.com/59381835/83589430-8bae5180-a508-11ea-975a-ae4fee409fde.png)
 
 <div align="center">
   <a href="https://dashcruft.com/discord">
